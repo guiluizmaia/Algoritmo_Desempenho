@@ -1,0 +1,11 @@
+C:\Users\Gui\source\repos\Algoritmo_Desempenho\Algoritmo_Desempenho\bin\Debug\netcoreapp3.1\Algoritmo_Desempenho.exe
+C:\Users\Gui\source\repos\Algoritmo_Desempenho\Algoritmo_Desempenho\bin\Debug\netcoreapp3.1\Algoritmo_Desempenho.deps.json
+C:\Users\Gui\source\repos\Algoritmo_Desempenho\Algoritmo_Desempenho\bin\Debug\netcoreapp3.1\Algoritmo_Desempenho.runtimeconfig.json
+C:\Users\Gui\source\repos\Algoritmo_Desempenho\Algoritmo_Desempenho\bin\Debug\netcoreapp3.1\Algoritmo_Desempenho.runtimeconfig.dev.json
+C:\Users\Gui\source\repos\Algoritmo_Desempenho\Algoritmo_Desempenho\bin\Debug\netcoreapp3.1\Algoritmo_Desempenho.dll
+C:\Users\Gui\source\repos\Algoritmo_Desempenho\Algoritmo_Desempenho\bin\Debug\netcoreapp3.1\Algoritmo_Desempenho.pdb
+C:\Users\Gui\source\repos\Algoritmo_Desempenho\Algoritmo_Desempenho\obj\Debug\netcoreapp3.1\Algoritmo_Desempenho.csprojAssemblyReference.cache
+C:\Users\Gui\source\repos\Algoritmo_Desempenho\Algoritmo_Desempenho\obj\Debug\netcoreapp3.1\Algoritmo_Desempenho.AssemblyInfoInputs.cache
+C:\Users\Gui\source\repos\Algoritmo_Desempenho\Algoritmo_Desempenho\obj\Debug\netcoreapp3.1\Algoritmo_Desempenho.AssemblyInfo.cs
+C:\Users\Gui\source\repos\Algoritmo_Desempenho\Algoritmo_Desempenho\obj\Debug\netcoreapp3.1\Algoritmo_Desempenho.dll
+C:\Users\Gui\source\repos\Algoritmo_Desempenho\Algoritmo_Desempenho\obj\Debug\netcoreapp3.1\Algoritmo_Desempenho.pdb
